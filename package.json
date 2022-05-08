@@ -1,6 +1,6 @@
 {
   "name": "test-standartversion",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "index.js",
   "repository": "https://github.com/lttrieu/test-standartversion.git",
   "author": "Le Trieu <trieu.lth@gmail.com>",
