@@ -1,0 +1,11 @@
+{
+  "name": "test-standartversion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lttrieu/test-standartversion.git",
+  "author": "Le Trieu <trieu.lth@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  }
+}
